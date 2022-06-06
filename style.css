@@ -33,12 +33,8 @@ body {
 }
 
 @media (max-width: 670px) {
-    body {
-        width: 100%;
-    }
     .flex-box-container{
-        padding-left: 50px;
-        padding-right: 50px;
+        width: 100%;
     }
 
 }
