@@ -33,7 +33,7 @@ body {
 }
 
 @media (max-width: 670px) {
-    .flex-box-container{
+    body {
         width: 100%;
     }
 }
